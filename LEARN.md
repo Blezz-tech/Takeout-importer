@@ -51,6 +51,11 @@ As a result, I got that there are empty and non-empty tables
 - visited_links
 - visits
 
-# How work 
+# Step 1
 
+Use this tables
 
+- sqlite_sequence
+- urls
+- visited_links
+- visits
